@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dir</string>
+    <string name="title_activity_main_screens">MainScreens</string>
+    <string name="tab_text_1">Foods</string>
+    <string name="tab_text_2">Drinks</string>
+    <string name="tab_text_3">Snacks</string>
+    <string name="tab_text_4">Sauce</string>
+</resources>
